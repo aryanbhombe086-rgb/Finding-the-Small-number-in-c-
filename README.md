@@ -1,0 +1,1 @@
+# Finding-the-Small-number-in-c-
